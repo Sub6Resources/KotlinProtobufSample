@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProtobufSample</string>
+    <string name="title_activity_hello_world">HelloWorldActivity</string>
+</resources>
